@@ -1,0 +1,5 @@
+/home/zgillis/Documents/Mono Projects/CSLearn1/CSLearn1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/zgillis/Documents/Mono Projects/CSLearn1/CSLearn1/bin/Debug/CSLearn1.exe.mdb
+/home/zgillis/Documents/Mono Projects/CSLearn1/CSLearn1/bin/Debug/CSLearn1.exe
+/home/zgillis/Documents/Mono Projects/CSLearn1/CSLearn1/obj/x86/Debug/CSLearn1.exe
+/home/zgillis/Documents/Mono Projects/CSLearn1/CSLearn1/obj/x86/Debug/CSLearn1.exe.mdb
